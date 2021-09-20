@@ -6,4 +6,6 @@ Repository containing my portfolio of data science projects. Portfolio currently
 
 Fictitious bike-share company in Chicago called Cyclistic wants to understand how casual riders and annual members use Cyclistic bikes differently. Public data from City of Chicago’s (“City”) Divvy bicycle sharing service was used to generate insights and data visualisations for this project. A report was generated using R Markdown which includes the code used throughout the data cleaning, manipulation, analysis and visualisation steps.
 
+![](https://github.com/tsunheitai/data-science-portfolio/tree/main/images/average_ride_duration_by_membership_type.png)
 
+![](https://github.com/tsunheitai/data-science-portfolio/tree/main/images/number_of_rides_by_membership_type.png)
