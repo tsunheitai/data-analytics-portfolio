@@ -1,6 +1,6 @@
-# Data Science Portfolio - Tsun Hei Tai
+# Data Science Portfolio 
 
-Repository containing portfolio of data science projects completed by me. Portfolio currently contains case studies which were completed as part of the Google Data Analytics Certificate.
+Repository containing my portfolio of data science projects. Portfolio currently contains case studies which were completed as part of the Google Data Analytics Certificate.
 
 # [Project 1: Bike Sharing Analysis](https://github.com/tsunheitai/Starter-projects/tree/main/Project%20-%20Bike%20Sharing%20Analysis)
 
