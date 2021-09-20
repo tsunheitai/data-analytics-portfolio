@@ -1,5 +1,6 @@
-### Hi there 👋
+# Data Science Portfolio
 
-This is my first case study that I did as part of the Google Data Analytics Certificate. 
-My first foray into displaying the skills I have learnt whilst completing the Google Data Analytics Certificate.
+Repository containing portfolio of data science projects completed by me. Portfolio currently contains case studies which were completed as part of the Google Data Analytics Certificate.
+
+
 
