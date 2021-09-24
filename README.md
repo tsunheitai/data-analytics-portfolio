@@ -13,3 +13,11 @@ The key findings from this project were:
 ![](/images/average_ride_duration_by_membership_type.png)
 
 ![](/images/number_of_rides_by_membership_type.png)
+
+
+
+# [Fun Project 1: FIFA 22 Data Analysis using SQL](https://github.com/tsunheitai/Starter-projects/tree/main/FIFA%2022%20Data%20Set)
+
+Found a data set on Kaggle that has information such as player ratings and attributes that FIFA has given each player in FIFA 22. I like playing FIFA, so I'm including this here and also to show the SQL queries I ran to get the information I wanted from this data.
+
+![](https://github.com/tsunheitai/Starter-projects/blob/main/FIFA%2022%20Data%20Set/top%2010%20strongest%20players%20fifa%2022.PNG)
