@@ -20,4 +20,4 @@ The key findings from this project were:
 
 Found a data set on Kaggle that has information such as player ratings and attributes that FIFA has given each player in FIFA 22. I like playing FIFA, so I'm including this here and also to show the SQL queries I ran to get the information I wanted from this data.
 
-![](https://github.com/tsunheitai/Starter-projects/blob/main/FIFA%2022%20Data%20Set/images/top_10_strongest_players_fifa_22.PNG)
+![](https://github.com/tsunheitai/Starter-projects/blob/640df87a7abbb480397cf9de987198e42ad1ebc8/FIFA%2022%20Data%20Set/images/top_10_strongest_players_fifa_22.PNG)
