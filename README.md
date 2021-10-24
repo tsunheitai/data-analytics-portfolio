@@ -28,6 +28,21 @@ The key findings from this project were:
 
 ![](/images/hourly_steps_taken_throughout_the_day.PNG)
 
+# [Exploratory Data Analysis - Adverse Food Events](https://github.com/tsunheitai/Starter-projects/tree/main/Adverse%20Food%20Events%20-%20EDA)
+
+I wanted to complete some exploratory data analysis on a data set from the US Food and Drug Administration. Used this exploratory data analysis (EDA) to utilise my data analysis skillset that I'm continuously working to improve on, combined with my experience in dealing with customer complaints in the food industry where some of the symptoms seen in the adverse event reports can be quite common.
+
+The adverse food event reports were from 2004 - mid 2017 and are part of the CFSAN Adverse Event Reporting System (CAERS). CAERS is a database that contains information on adverse event and product complaint reports submitted to FDA for foods, dietary supplements, and cosmetics. The database is designed to support CFSAN's safety surveillance program. 
+
+The key findings from the EDA were:
+
+* Product that led to most deaths were **raw oysters**
+* **Supplements** were the most common products that led to adverse reactions
+* More **females** reported adverse reactions compared to **males**
+* **Diarrhoea , Vomiting , Nausea , Abdominal Pain** were the most common symptoms
+
+![](/images/top_ten_symptoms.png)
+
 # [Fun Project 1: FIFA 22 Data Analysis using SQL](https://github.com/tsunheitai/Starter-projects/tree/main/FIFA%2022%20Data%20Set)
 
 Found a data set on Kaggle that has information such as player ratings and attributes that FIFA has given each player in FIFA 22. I like playing FIFA, so I'm including this here and also to show the SQL queries I ran to get the information I wanted from this data.
