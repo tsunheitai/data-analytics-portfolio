@@ -1,6 +1,6 @@
-# Data Science Portfolio 
+# Data Analyitcs Portfolio 
 
-Repository containing my portfolio of data science projects. 
+Repository containing my portfolio of data analytics projects. 
 
 # [Project 1: Bike Sharing Analysis](https://github.com/tsunheitai/Starter-projects/tree/main/Project%20-%20Bike%20Sharing%20Analysis)
 
